@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moayad @MoayadHn
-- 👀 I’m interested in Python, Machine learning, Generative adversarial networks, Additive manufacturing.  
-- 🌱 I’m currently self-learning and exploring new knowledge.
+- 👀 I’m interested in Python, Machine Learning, Generative Adversarial Networks, Additive Manufacturing.  
+- 🌱 I’m currently Learning German and exploring new knowledge.
 - 💞️ I’m looking to collaborate on open-source projects, Kaggle competitions, or unique challenges.
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/moayad-almohaishi-96a79a4b
 
